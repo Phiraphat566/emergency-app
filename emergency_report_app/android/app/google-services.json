@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211710220757",
+    "project_id": "emergency-report-app-beef3",
+    "storage_bucket": "emergency-report-app-beef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211710220757:android:e5c1dd9c1e28f31aac855c",
+        "android_client_info": {
+          "package_name": "com.example.emergency_report_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOYUi46ZtuDrdyFLf88DsazSYnonhR4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
